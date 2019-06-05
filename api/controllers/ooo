@@ -1,0 +1,12 @@
+ if(!_.isUndefined(req.body.branch_name)&&!_.isUndefined(req.body.branch_address)){}
+  return res.status(400).json({
+      Error: 'Some Data is Undefined'
+    })
+
+if (!_.isUndefined(id) || !_.isNull(id) || id.trim().length != 0) {
+    }
+    return res.sendStatus(404);
+
+    if (!_.isUndefined(id) || !_.isNull(id) || id.trim().length != 0) {
+    }
+    return res.status(404).json('id is notfond');
