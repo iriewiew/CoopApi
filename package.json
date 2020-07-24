@@ -18,7 +18,7 @@
     "sails": "^1.0.0-41",
     "sails-hook-grunt": "^2.0.0",
     "sails-hook-orm": "^2.0.0-16",
-    "sails-hook-sockets": "^1.4.0",
+    "sails-hook-sockets": "^1.5.5",
     "sails-mysql": "^1.0.1",
     "socket.io-redis": "4.0.0"
   },
