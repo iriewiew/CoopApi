@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "eslint": "3.19.0",
-    "swagger-ui": "^2.2.10"
+    "swagger-ui": "^3.23.11"
   },
   "scripts": {
     "start": "NODE_ENV=production node app.js",
